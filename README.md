@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Farm2Kitchen**
 
-- 🌱 I’m currently learning **React,Node**
+- 🌱 I’m currently learning **NodeJs**
 
 - 📫 How to reach me **kaviyarsanvm02@gmail.com**
 
