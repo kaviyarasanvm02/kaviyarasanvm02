@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kaviyarsan V</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaviyarasanvm02&label=Profile%20views&color=0e75b6&style=flat" alt="kaviyarasanvm02" /> </p>
 
 - 🔭 I’m currently working on **Farm2Kitchen**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 📫 How to reach me **kaviyarsanvm02@gmail.com**
 
