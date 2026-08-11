@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaviyarasanvm02&label=Profile%20views&color=0e75b6&style=flat" alt="kaviyarasanvm02" /> </p>
 
-- 🔭 I’m currently working on **Farm2Kitchen**
-
-- 🌱 I’m currently learning **NextJs**
-
-- 📫 How to reach me **kaviyarsanvm02@gmail.com**
-
-- ⚡ Fun fact **I love Content Creation**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaviyarasan-v-230287301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaviyarasan v" height="30" width="40" /></a>
